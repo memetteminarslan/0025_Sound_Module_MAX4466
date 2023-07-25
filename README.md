@@ -1,1 +1,3 @@
 # 0025_Sound_Module_MAX4466
+You are seeing a large number of widely used Sound Module in electronic development kits. More information coming soon...
+
